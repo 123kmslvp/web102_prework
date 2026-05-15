@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http:/![Uploading Kapture 2026-05-14 at 20.27.03.gif…]()
+<img src='http:/<img width="721" height="438" alt="Kapture 2026-05-14 at 20 27 03" src="https://github.com/user-attachments/assets/b026f152-221c-4025-bac2-0cad4af4ecd7" />
+()
 /i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
