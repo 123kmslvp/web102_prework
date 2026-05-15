@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] I had implemented a button that scrolls straight to the game filters section! That was cool and a lot easier than I expected to make.
 
 ## Video Walkthrough
 
@@ -34,11 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While I was building this website I realized there was a lot information of DOM and manipulating objects in Javascript that I didn't know. However, I believe I learned a lot and I am proud to say I can recreate these features on my own confidently. The resources in the files were a great help and easy to gather information with. I definetly struggled with the spreading and deconstructor feature but I realized it was a lot simpler than I was making it. The initial was tough understanding how the innerHTML worked, but after a while I got used to the syntax and knew which feature to use and when to make a new element with the practice.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Kriti Vanipenta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
