@@ -23,6 +23,11 @@ body {
     display: flex;
 }
 
+.stats-container:hover{
+    cursor: pointer;
+
+}
+
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
@@ -72,4 +77,21 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.scroll-button{
+    margin-left: auto;
+    padding: 10px 20px;
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.scroll-button:hover{
+    background-color: rgb(46, 46, 46);
+}
+
+html{
+    scroll-behavior: smooth;
 }
