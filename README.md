@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="assets/Kapture 2026-05-14 at 20.27.03.gif" alt="Video Walkthrough" width="700" />
+<img src="assets/Kapture 2026-05-14 at 20.27.03.gif" title="Video Walkthrough" width="700" alt="Video Walkthrough" />
 
 
 
